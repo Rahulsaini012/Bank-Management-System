@@ -167,14 +167,16 @@ Refactoring code for better efficiency.
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 
-## 📬 Contact
+### 📬 Contact
 
 For inquiries or issues, contact me:
 
 
-Email: your.email@example.com
+Email:pb65rahulsaini@gmail.com
 
-GitHub: Your GitHub Profile
+Instagram: https://www.instagram.com/rahul__sainiiii/
+
+Linkedin: https://www.linkedin.com/in/rahul-saini-2b4b33337/
 
 
 

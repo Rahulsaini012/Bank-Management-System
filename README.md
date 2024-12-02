@@ -174,8 +174,6 @@ For inquiries or issues, contact me:
 
 Email:pb65rahulsaini@gmail.com
 
-Instagram: https://www.instagram.com/rahul__sainiiii/
-
 Linkedin: https://www.linkedin.com/in/rahul-saini-2b4b33337/
 
 
